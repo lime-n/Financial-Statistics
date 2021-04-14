@@ -2,7 +2,7 @@
 
 The folder 'Financial' contains updated records of Bitcoin shares, and an R script of machine learning to calculate the probabilities of the 'next-minute' falling or increasing in difference between both Closed and Open stock shares. 
 
-It's calculating via:
+It's calculated via:
 
 ```
 Open_Stock - Closed_stock
