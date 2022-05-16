@@ -1,11 +1,6 @@
-from subprocess import check_output as qx
-from subprocess import Popen, PIPE
-import subprocess as s
 import re
 from numpy import float64
 import yaml
-from pprint import pprint
-from pydantic import BaseModel
 from subprocess import STDOUT, check_call as x
 import os
 import pandas as pd
@@ -14,6 +9,7 @@ import pymssql
 from multiprocessing import Process
 import re
 import jsonlines
+
 cmd = [r'/Applications/StockSpy Realtime Stocks Quote.app/Contents/MacOS/StockSpy Realtime Stocks Quote']
 text_file = ['bitcoin1.txt','bitcoin2.txt','bitcoin3.txt','bitcoin4.txt']
 
