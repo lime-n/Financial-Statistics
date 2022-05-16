@@ -19,7 +19,7 @@ Contains the following python script:
 **Summary**:
 - Stocks: This script extracts output from an executable programme. It stores the output into multiple files, and reads each one individual, at at a 10 second lag. To optimise the efficiency of extraction, multiprocessing is implemented. All the output on multiple financial stocks are collected.
 
-**Skills*:
+**Skills**:
 1. Familiarity with multiprocessing and threading capabilities to boost code efficiency.
 2. Collecting output from executable programmes using pythons `subprocessor`.
 3. Uploading the output into an SQL database.
