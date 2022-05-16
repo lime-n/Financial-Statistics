@@ -6,7 +6,7 @@ import pymssql
 import re
 from collections import defaultdict
 # class SqlazurePipeline: set up SQL server
-connection = pymssql.connect("bitcoinserver.database.windows.net", "btcServer", "EMrizoj.12", "coiner")
+connection = pymssql.connect("xxxt", "xxxr", "xxx2", "xxxr")
 cursor = connection.cursor()
 
 #Read the dataframe and store into pandas dataframe
