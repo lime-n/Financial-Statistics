@@ -7,9 +7,9 @@ import re
 from collections import defaultdict
 import pyodbc
 
-user = 'btcServer'
-passw = 'EMrizoj.12'
-host =  'bitcoinserver.database.windows.net'  # either localhost or ip e.g. '172.17.0.2' or hostname address 
+user = 'btcxxx'
+passw = 'Exxx'
+host =  'bitcoinxxx.database.windows.net'  # either localhost or ip e.g. '172.17.0.2' or hostname address 
 port = 1433 
 database = 'coiner'
 
