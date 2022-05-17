@@ -26,3 +26,4 @@ Contains the following python script:
 
 Future Updates:
 1. Machine learning models to forecast pricing estimates
+2. Including a schedule to run the script for a fixed amount of time.
