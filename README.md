@@ -10,7 +10,7 @@ Contains the following python script:
 **Skills**:
 1. Familiarity with multiprocessing and threading capabilities to boost code efficiency.
 2. Collecting output from executable programmes using pythons `subprocessor`.
-3. Uploading the output into an SQL database.
+3. Uploading the output into a SQL database.
 
 Future Updates:
 1. Machine learning models to forecast pricing estimates
