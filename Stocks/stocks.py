@@ -104,7 +104,7 @@ def write_truncate_output(text):
             dds += "{},".format(values)
 
 
-        #INSERT an SQL TABLE data
+        #INSERT a SQL TABLE data
         sql_insert = "INSERT INTO `{}` ({}) VALUES ({})".format(
             'StocksRealTime', ddi, dds
             )
